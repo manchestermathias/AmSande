@@ -1,0 +1,45 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1409136088
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1782 outsize=3227 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5255 outsize=1058 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5255 outsize=991 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2802 outsize=857 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2802 outsize=1159 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2310 outsize=524 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2310 outsize=346 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4643 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4643 outsize=676 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2091 outsize=488 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2091 outsize=270 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2136 outsize=1091 kw=SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2136 outsize=943 kw=SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4648 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4648 outsize=559 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2611 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2611 outsize=740 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2270 outsize=524 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2270 outsize=368 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4348 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4348 outsize=551 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
